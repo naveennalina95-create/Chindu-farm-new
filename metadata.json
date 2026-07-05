@@ -1,0 +1,6 @@
+{
+  "name": "Chindu Farms",
+  "description": "A premium, modern mobile application UI mockup for Chindu Farms, a farm-fresh organic marketplace in India, featuring high-fidelity food photography and editable prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
